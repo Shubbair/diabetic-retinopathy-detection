@@ -26,4 +26,7 @@ Model Accuracy       |        Model Loss
 ## The Model Architecture
 <img src='assets/model.svg'/>
 
-
+## Create By 
+### Hussain Salih Mahdi 
+### E-mail : hussainsalih.github@gmail.com
+### LinkedIn : https://www.linkedin.com/in/shubbair/
