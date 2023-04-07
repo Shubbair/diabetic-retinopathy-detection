@@ -10,6 +10,20 @@ to read more about the dataset : [here](https://www.kaggle.com/competitions/apto
 ## 2.About The Model : 
 I used CNN architecture and train the network with data Cross Validation to ensure getting all data
 
-Model training Activity : 
+
+## Model training Activity : 
+
+The Blue $\textcolor{#2f89fc}{\textsf{Line}}$ For Training
+
+The Red $\textcolor{#ff304f}{\textsf{Line}}$ For Validation
+
+Model Accuracy       |        Model Loss
+:-------------------------:|:-------------------------:
+![accuracy](assets/accuracy.png)  |  ![loss](assets/loss.png)
+
+
+
+## The Model Architecture
+<img src='assets/model.svg'/>
 
 
